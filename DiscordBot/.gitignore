@@ -1,0 +1,5 @@
+node_modules/
+.vscode/
+dist/
+.env
+for_replit.memo
