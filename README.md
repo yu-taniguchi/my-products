@@ -1,4 +1,4 @@
-# MyProducts
+# My Products
 This repository is my store only to show my products.
 
 このレポジトリではバージョン管理を目的として使用しているわけではないので、
